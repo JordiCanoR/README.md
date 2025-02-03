@@ -29,9 +29,7 @@ Este proyecto simula un proceso de paletizado con un robot Universal Robots (UR)
 ✅ Optimización de algoritmos de visión artificial para mayor precisión.  
 ✅ Implementación de inteligencia artificial para predicción de fallos.  
 
----
 
-📌 **Consejo final:** Añade capturas de pantalla o GIFs del sistema en funcionamiento para hacerlo más atractivo. Puedes subir imágenes y enlazarlas en el README así:
-```markdown
-![Paletizado en acción](ruta_de_la_imagen.png)
+
+
 
